@@ -1,1 +1,1 @@
-# this is where you can download the file to access images
+#get the file to access the game images
